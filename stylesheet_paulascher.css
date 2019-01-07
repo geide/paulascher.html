@@ -1,0 +1,125 @@
+body  {
+ 
+      font-family: 'Helvetica', sans-serif;
+      font-style: italic
+      font-weight: 200px
+      background:white;
+      color: #orangered;
+      padding-left: 135px;
+      padding-right: 135px;
+      }
+
+h1    {
+      font-family: 'Helvetica', sans-serif;
+      font-size: 110px;
+      text-transform: high;
+      letter-spacing: 3px;
+      color:orangered;
+      text-shadow: 100ps 30px 10px #555
+      padding: px 40px 30 px 70 px
+      }   
+
+h2   {
+     font-family: 'Helvetica', sans-serif;
+     font-size: 25px
+     padding-bottom: 30px;
+     font-weight: 100;
+     text-transform: lowercase;
+     letter-spacing: 3px;
+     transform-origin: left
+     color:orangered
+     padding-bottom: 20px;
+     padding-top: 20px;
+    
+     }
+    
+h1, h2, h3 {
+           font-weight:strong;
+           text-align: center;
+           margin: 10px 0;
+            }
+       h3 {
+            color:orangered
+            font-family: 'Helvetica', sans-serif
+            font-size: 20px;
+            letter-spacing: 4px
+            text-transform: uppercase;
+            padding-top: 20px
+            padding-bottom: 15px;
+           
+           text-align: left
+            }  
+
+P {
+            font-size: 19px;
+            text-align: justify;
+    
+            }
+
+blockquote{
+    color:orangered;
+}
+
+ .Subtitle{
+         font-style: italic
+         }
+
+     a {
+     color: #36393a;
+     text-decoration:none;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+         
+     }
+
+  a:hover {
+      text-decoration: none;
+      color:orangered;
+      }
+
+   nav ul {
+       text-align: center;
+       list-style-type: none
+      }
+
+      nav ul li {
+          display: inline-block;
+          margin: 10px
+              
+    
+      }
+      nav {
+          border-top: 1px solid #ccc;
+          border-bottom: 1px solid #ccc;
+      
+      }
+
+    section {
+        padding-bottom:40px
+    } 
+
+     img {
+         display: block;
+         margin: auto;
+         margin-left: auto;
+         margin-right: auto;
+        
+    }
+
+
+
+section {
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase
+}
+
+footer {border-top: 1px solid #ccc;
+           border-bottom: 1px solid #ccc;
+
+
+
+
+
+
+
